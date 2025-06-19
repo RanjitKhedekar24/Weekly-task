@@ -16,3 +16,7 @@ task3.map((product) => {
 //     console.log("it's your info");
 //   }
 // });
+
+
+
+//note :- not arite any info in  txt file

@@ -28,3 +28,7 @@ let task5 = a.weatherForecasts;
     console.log("**********************************");
   });
 
+
+
+
+  //note :- when we enter a date they show else message
