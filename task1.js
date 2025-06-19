@@ -8,4 +8,3 @@ if (age <= 18) {
 } else {
   console.log("Normal ticket price applies.");
 }
-18
