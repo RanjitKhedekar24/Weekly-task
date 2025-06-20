@@ -4,4 +4,4 @@ const width = Number(prompt("Enter width of rectangle meter: "));
 
 var area=length * width
 
-console.log("area of rectangle is " + area +" square meter" );
+console.log(`area of rectangle is ${area} square meter` );
